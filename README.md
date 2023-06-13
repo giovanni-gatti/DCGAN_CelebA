@@ -1,2 +1,2 @@
 # DCGAN_CelebA
-Repository to store the code for the Bachelor's thesis.
+Auxiliary repository to store the code for the Bachelor's thesis titled 'Generative Adversarial Networks: Architecture, Properties and Applications'.
