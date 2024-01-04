@@ -44,6 +44,7 @@ While still not perfect and with room for improvement, the results are impressiv
 - [https://arxiv.org/abs/1511.06434](https://arxiv.org/abs/1511.06434)
 - [https://arxiv.org/abs/1606.03498](https://arxiv.org/abs/1606.03498)
 - [https://arxiv.org/abs/1701.04862](https://arxiv.org/abs/1701.04862)
+- [https://arxiv.org/abs/1411.7766](https://arxiv.org/abs/1411.7766)
 
 
 
