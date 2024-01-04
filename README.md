@@ -18,13 +18,11 @@ The follwing plots show the architecture components with output shape for every 
 <p align="center">
   <img src="images/gan2.png" alt="Generator">
   <br>Generator network.
-</p>
+</p><br>
 
 <p align="center">
   <img src="images/gan1.png" alt="Discriminator">
-</p>
-<p align="center">
-  Discriminator network.
+  <br>Discriminator network.
 </p>
 
 
