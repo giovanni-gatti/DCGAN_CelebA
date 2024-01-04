@@ -14,8 +14,19 @@ On top of that, since early experiments with this configuration showed signs of 
 - Separate mini-batches
 - Different learning rates for generator and discriminator
 
+The follwing plots show the architecture components with output shape for every convolutional layer:
 <p align="center">
-  <img src="images/gan2.png" alt="Your Image Description">
+  <img src="images/gan2.png" alt="Generator">
+</p>
+<p align="center">
+  Generator network.
+</p>
+
+<p align="center">
+  <img src="images/gan1.png" alt="Discriminator">
+</p>
+<p align="center">
+  Discriminator network.
 </p>
 
 
