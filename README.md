@@ -35,10 +35,15 @@ The images below compare generated outputs after the final epoch and a sample of
 
 <p align="center">
   <img src="images/final.png" alt="generated data", width="600">
-  <br>Genereted data
+  <br>Genereted data.
 </p>
 
 While still not perfect and with room for improvement, the results are impressive, considering the small size of the model (below 25 million parameters), the low resolution of the images and the limited amount of training data and resources available. Moreover, proper regularization avoided the issues of non-convergence and mode collapse.
+
+## References
+- [https://arxiv.org/abs/1511.06434](https://arxiv.org/abs/1511.06434)
+- [https://arxiv.org/abs/1606.03498](https://arxiv.org/abs/1606.03498)
+- [https://arxiv.org/abs/1701.04862](https://arxiv.org/abs/1701.04862)
 
 
 
