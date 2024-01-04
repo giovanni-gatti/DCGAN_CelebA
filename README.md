@@ -17,9 +17,7 @@ On top of that, since early experiments with this configuration showed signs of 
 The follwing plots show the architecture components with output shape for every convolutional layer:
 <p align="center">
   <img src="images/gan2.png" alt="Generator">
-</p>
-<p align="center">
-  Generator network.
+  <br>Generator network.
 </p>
 
 <p align="center">
