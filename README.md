@@ -16,7 +16,7 @@ On top of that, since early experiments with this configuration showed signs of 
 
 The follwing plots show the architecture components with output shape for every convolutional layer:
 <p align="center">
-  <img src="images/gan2.png" alt="Generator">
+  <img src="images/gan2.png" alt="Generator", width="300">
   <br>Generator network.
 </p><br>
 
@@ -30,13 +30,13 @@ To provide an example of the model capabilities, the DCGAN described above and c
 The images below compare generated outputs after the final epoch and a sample of real training data:
 <p align="center">
   <img src="images/real.png" alt="training data">
-  <br>Generator network.
+  <br>Real data.
 </p><br>
 
 <p align="center">
   <img src="images/final.png" alt="generated data">
-  <br>Discriminator network.
-</p><br>
+  <br>Genereted data
+</p>
 
 While still not perfect and with room for improvement, the results are impressive, considering the small size of the model (below 25 million parameters), the low resolution of the images and the limited amount of training data and resources available. Moreover, proper regularization avoided the issues of non-convergence and mode collapse.
 
