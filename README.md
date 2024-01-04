@@ -21,7 +21,7 @@ The follwing plots show the architecture components with output shape for every 
 </p><br>
 
 <p align="center">
-  <img src="images/gan1.png" alt="Discriminator">
+  <img src="images/gan1.png" alt="Discriminator", width="600">
   <br>Discriminator network.
 </p>
 
@@ -29,12 +29,12 @@ The follwing plots show the architecture components with output shape for every 
 To provide an example of the model capabilities, the DCGAN described above and coded in the notebook was trained for 60 epochs on a Tesla T4 Cloud GPU, with a batch size of 128, a latent vector size of 128, and image size of 64 × 64. No extra data augmentations were applied to the training data, except scaling their range and applying a random horizontal flip.
 The images below compare generated outputs after the final epoch and a sample of real training data:
 <p align="center">
-  <img src="images/real.png" alt="training data">
+  <img src="images/real.png" alt="training data", width="600">
   <br>Real data.
 </p><br>
 
 <p align="center">
-  <img src="images/final.png" alt="generated data">
+  <img src="images/final.png" alt="generated data", width="600">
   <br>Genereted data
 </p>
 
