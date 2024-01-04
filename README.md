@@ -14,5 +14,9 @@ On top of that, since early experiments with this configuration showed signs of 
 - Separate mini-batches
 - Different learning rates for generator and discriminator
 
+<p align="center">
+  <img src="images/gan2.png" alt="Your Image Description">
+</p>
+
 
 
