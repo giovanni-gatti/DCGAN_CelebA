@@ -25,5 +25,21 @@ The follwing plots show the architecture components with output shape for every 
   <br>Discriminator network.
 </p>
 
+### Training Example
+To provide an example of the model capabilities, the DCGAN described above and coded in the notebook was trained for 60 epochs on a Tesla T4 Cloud GPU, with a batch size of 128, a latent vector size of 128, and image size of 64 × 64. No extra data augmentations were applied to the training data, except scaling their range and applying a random horizontal flip.
+The images below compare generated outputs after the final epoch and a sample of real training data:
+<p align="center">
+  <img src="images/real.png" alt="training data">
+  <br>Generator network.
+</p><br>
+
+<p align="center">
+  <img src="images/final.png" alt="generated data">
+  <br>Discriminator network.
+</p><br>
+
+While still not perfect and with room for improvement, the results are impressive, considering the small size of the model (below 25 million parameters), the low resolution of the images and the limited amount of training data and resources available. Moreover, proper regularization avoided the issues of non-convergence and mode collapse.
+
+
 
 
